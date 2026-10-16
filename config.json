@@ -1,0 +1,4 @@
+{
+  "collectorUrl": "http://20.32.3.219:4000 npm run build-kits",
+  "collectorKey": "change-me-to-a-long-random-string"
+}
